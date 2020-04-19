@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Hanging Candle
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -6664910623476987767, guid: 533e2c0136fce5d438ec7989b15b5b93, type: 3}
+  - {fileID: 4403325352999960550, guid: 533e2c0136fce5d438ec7989b15b5b93, type: 3}
+  - {fileID: -4030134798421513392, guid: 533e2c0136fce5d438ec7989b15b5b93, type: 3}
+  - {fileID: 5117785196520662038, guid: 533e2c0136fce5d438ec7989b15b5b93, type: 3}
+  - {fileID: 8855023437229973802, guid: 533e2c0136fce5d438ec7989b15b5b93, type: 3}
+  - {fileID: -6509860027778362286, guid: 533e2c0136fce5d438ec7989b15b5b93, type: 3}
+  m_MinSpeed: 3
+  m_MaxSpeed: 10
+  m_AnimationStartTime: 0
+  m_TileColliderType: 0
