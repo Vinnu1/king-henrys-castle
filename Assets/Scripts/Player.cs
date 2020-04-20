@@ -4,6 +4,16 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
+/*
+NOTE: this applies for all scripts
+
+I worked on this game as a side project on breaks, throughout which my knowledge of Unity/C# increased.
+So some scripts might have better optimized code and some might not. In this script only, I can see repeatable blocks for which I
+should make a separate function, but I can't due to shortage of time. Having said that, this code works smoothly and I believe
+is easy to understand. Obviously, you can fork and make it better!
+
+*/
+
 public class Player : MonoBehaviour, Inhit
 {
     private Rigidbody2D playerRgd;
